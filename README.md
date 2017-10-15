@@ -1,4 +1,4 @@
-# my-company-project-materialized-view-microservice [![CircleCI](https://circleci.com/gh/ivans-innovation-lab/my-company-project-materialized-view-microservice.svg?style=svg)](https://circleci.com/gh/ivans-innovation-lab/my-company-project-materialized-view-microservice)
+# [projects](http://ivans-innovation-lab.github.io/projects)/my-company-project-materialized-view-microservice [![CircleCI](https://circleci.com/gh/ivans-innovation-lab/my-company-project-materialized-view-microservice.svg?style=svg)](https://circleci.com/gh/ivans-innovation-lab/my-company-project-materialized-view-microservice)
 
 ## Running instructions
 
